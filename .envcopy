@@ -6,3 +6,7 @@ DB_PORT=5432
 JWT_SECRET=secreto
 G_PASSWORD=pbrtztpcyyrnxcme
 URL=http://localhost
+
+postgres://osaptm:wR82AmLLcRksxSze3FSXSRxnHqRTPnf1@dpg-cfdeoc9a6gdja6bdvts0-a.oregon-postgres.render.com/store_x3l8
+
+postgresql://{user}:{password}{host}[:{port}]/[{database}]

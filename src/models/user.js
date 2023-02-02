@@ -15,7 +15,7 @@ const Sequelize = require('sequelize');
  *           example: exmilder@gmail.com
  *         password:
  *           type: string
- *           example: 1234
+ *           example: 123
  *     login:
  *       type: object
  *       properties:
@@ -24,7 +24,7 @@ const Sequelize = require('sequelize');
  *           example: exmilder@gmail.com
  *         password:
  *           type: string
- *           example: 1234
+ *           example: 123
  *     loginResponse:
  *       type: object
  *       properties:
